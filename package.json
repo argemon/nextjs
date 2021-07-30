@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "next": "10.x",
+    "pdfmake": "^0.2.0",
     "react": "17.x",
-    "react-dom": "17.x"
+    "react-dom": "17.x",
+    "react-pdfmake": "^0.3.0"
   }
 }
